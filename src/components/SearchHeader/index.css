@@ -1,0 +1,29 @@
+.searchMainGroup{
+    border: 1px solid rgb(131, 204, 204);
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(245, 245, 245);
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.searchGroup {
+  display: flex;
+}
+
+
+.input {
+  margin: 20px;
+}
+
+.labelSearch {
+  font-size: large;
+  color: darkcyan;
+  font-weight: bold;
+  margin: 10px;
+  padding-top: 15px;
+}
+
+.button{
+    margin:20px;
+}

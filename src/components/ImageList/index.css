@@ -1,0 +1,13 @@
+.imageList{
+    margin-top: 50px;
+    columns: 250px 5;
+    column-gap: 10px;
+    border: 1px solid rgb(131, 204, 204);
+    border-radius: 8px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.searchMainGroup{
+    
+}
